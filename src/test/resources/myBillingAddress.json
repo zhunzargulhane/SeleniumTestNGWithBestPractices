@@ -1,0 +1,10 @@
+{
+  "firstName": "demofirstname",
+  "lastName": "demolastName",
+  "addressLineOne": "myaddress",
+  "country": "American Samoa",
+  "city": "San Francisco",
+  "state": "Alaska",
+  "zipCode": "94188",
+  "emailAddress": "askomdch@gmail.com"
+}

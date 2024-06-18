@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "demofirstnameUS",
+    "lastName": "demolastNameUS",
+    "addressLineOne": "myaddress",
+    "country": "US",
+    "city": "San Francisco",
+    "state": "AZ",
+    "zipCode": "94188",
+    "emailAddress": "askomdch@gmail.com"
+  },
+  {
+    "firstName": "INDIAFirstName",
+    "lastName": "INDIALastName",
+    "addressLineOne": "INDIAmyaddress",
+    "country": "IN",
+    "city": "NAGPUR",
+    "state": "MH",
+    "zipCode": "440014",
+    "emailAddress": "india@gmail.com"
+  },
+  {
+    "firstName": "londonFirstName",
+    "lastName": "londonLastName",
+    "addressLineOne": "Londonmyaddress",
+    "country": "GB",
+    "city": "London",
+    "state": "London",
+    "zipCode": "EC1A 2AP",
+    "emailAddress": "london@gmail.com"
+  }
+]
