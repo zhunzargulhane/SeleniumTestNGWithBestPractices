@@ -27,7 +27,7 @@ Allure CLI (optional for generating and viewing Allure reports)
 
 **Setup Instructions**
 1. Clone the repository:
-        git clone ""
+        git clone "https://github.com/zhunzargulhane/SeleniumTestNGWithBestPractices.git"
 
 2. Install dependencies:
         Install all the dependencies present in the POM.xml file.
