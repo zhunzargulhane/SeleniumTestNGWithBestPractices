@@ -56,7 +56,7 @@ public class BaseTest {
             browser = "CHROME";
         //setDriver(new DriverManagerOriginal().initializeDriver(browser));
         setDriver(DriverManagerFactory.getManager(DriverType.valueOf(browser)).createDriver());
-       // setDriverManagerAbstract(DriverManagerAbstractFactory.getManager(DriverType.valueOf(browser)));
+        //If using factory design pattern using abstract class then use below line of code
         //setDriver(getDriverManagerAbstract().getDriver());
         System.out.println("CURRENT THREAD:" + Thread.currentThread().getId() + " , " + "DRIVER: " + getDriver());
     }
